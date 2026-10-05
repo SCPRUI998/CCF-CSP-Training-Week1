@@ -1,0 +1,30 @@
+//#include<iostream>
+//using namespace std;
+//int main()
+//{
+//	char a, b;
+//	cin >> a >> b;
+//	if (a != 'H' &&  a != 'D' || b != 'H' && b != 'D') { return 0; }
+//	if(a=='H')
+//	{
+//		if (b == 'H')
+//		{
+//			cout << 'H' << endl;
+//		}
+//		else
+//		{
+//			cout << 'D' << endl;
+//		}
+//	}
+//	else
+//	{
+//		if (b == 'H')
+//		{
+//			cout << 'D' << endl;
+//		}
+//		else
+//		{
+//			cout << 'H' << endl;
+//		}
+//	}
+//}
